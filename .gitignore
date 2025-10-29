@@ -38,3 +38,9 @@ Thumbs.db
 
 *storybook.log
 storybook-static
+public/storybook/*
+# 
+Playwright
+/test-results/
+/playwright-report/
+/playwright/.cache/
